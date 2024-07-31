@@ -1,5 +1,9 @@
 # Financial Ops
 
+[![Crates.io](https://img.shields.io/crates/v/financial-ops)](https://crates.io/crates/financial-ops)
+[![Docs.rs](https://docs.rs/financial-ops/badge.svg)](https://docs.rs/financial-ops)
+[![License](https://img.shields.io/crates/l/financial-ops)]()
+
 This crate provides a set of operations for working with financial data, more specifically, avoiding
 the usage of floating point types.
 

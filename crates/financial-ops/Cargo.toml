@@ -7,7 +7,7 @@ description = "A Rust library to perform decimal arithmetic without floating poi
 license = "MIT"
 repository = "https://github.com/kevinrodriguez-io/financial-ops"
 homepage = "https://github.com/kevinrodriguez-io/financial-ops"
-documentation = "https://docs.kevinrodriguez-io/financial-ops"
+documentation = "https://docs.rs/financial-ops"
 readme = "README.md"
 keywords = [
     "blockchain",
