@@ -16,6 +16,6 @@ keywords = [
     "mint",
     "finance",
 ]
-categories = ["finance", "math", "cryptography", "blockchain"]
+categories = ["finance", "cryptography"]
 
 [dependencies]
