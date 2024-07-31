@@ -12,10 +12,8 @@ readme = "README.md"
 keywords = [
     "blockchain",
     "financial",
-    "ops",
     "solana",
     "mint",
-    "operations",
     "finance",
 ]
 categories = ["finance", "math", "cryptography", "blockchain"]
