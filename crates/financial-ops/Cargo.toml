@@ -1,0 +1,23 @@
+[package]
+name = "financial-ops"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kevin Rodriguez <_@kevinrodriguez.io>"]
+description = "A Rust library to perform decimal arithmetic without floating point values."
+license = "MIT"
+repository = "https://github.com/kevinrodriguez-io/financial-ops"
+homepage = "https://github.com/kevinrodriguez-io/financial-ops"
+documentation = "https://docs.kevinrodriguez-io/financial-ops"
+readme = "README.md"
+keywords = [
+    "blockchain",
+    "financial",
+    "ops",
+    "solana",
+    "mint",
+    "operations",
+    "finance",
+]
+categories = ["finance", "math", "cryptography", "blockchain"]
+
+[dependencies]
